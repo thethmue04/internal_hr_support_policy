@@ -12,4 +12,4 @@ Open your terminal or bash prompt and execute the following commands to clone th
 ```bash
 git clone [https://github.com/yourusername/internal_hr_chatbot.git](https://github.com/yourusername/internal_hr_chatbot.git)
 cd internal_hr_chatbot
-pip install requirements.txt
+pip install -r requirements.txt
